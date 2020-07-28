@@ -1,3 +1,3 @@
 # CookBook
 A recipe website
-Vist https://github.com/JWoIf/CookBook.git to see the website.
+Vist http://JWoIf.github.io/CookBook to see the website.
